@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prompt Injection Test Kit — FAQ</title>
+<meta name="description" content="Frequently asked questions about the Prompt Injection Test Kit.">
+<style>
+  :root{--ink:#0f172a;--muted:#475569;--rule:#e2e8f0;--accent:#2563eb;--bg:#fff;--soft:#f8fafc;}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6}
+  main{max-width:720px;margin:0 auto;padding:48px 24px}
+  h1{font-size:2rem;margin:0 0 8px}
+  h2{margin-top:1.8rem}
+  .q{font-weight:600;margin-top:1.4rem}
+  a{color:var(--accent)}
+  .muted{color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<h1>Prompt Injection Test Kit — FAQ</h1>
+<p class="muted">Everything you need before you run your first attack.</p>
+
+<p class="q">What is the Prompt Injection Test Kit?</p>
+<p>A ready-to-run battery of graded prompt-injection cases that tells a defended
+AI agent from an undefended one. You attack your own agent before an attacker does.</p>
+
+<p class="q">Do I need to buy it to try it?</p>
+<p>No. A free 10-case sampler with two bundled mock agents is on the
+<a href="./">product page</a>. The full kit is a one-time $49.</p>
+
+<p class="q">What languages / frameworks does it support?</p>
+<p>Any. The runner talks to your system through a one-function adapter, so it is
+agnostic to model provider, framework, and language.</p>
+
+<p class="q">Does it run in CI?</p>
+<p>Yes. The runner exits non-zero on any obeyed injection, so you can gate a
+deploy on it exactly like a test suite.</p>
+
+<p class="q">Who makes it?</p>
+<p>King AI. See the <a href="./guide.html">quick-start guide</a> to run your
+first battery in under a minute.</p>
+</main>
+</body>
+</html>
