@@ -1,0 +1,17 @@
+{
+ "name": "Prompt Injection Test Kit",
+ "sku": "injection-test-kit",
+ "price": 49.0,
+ "currency": "usd",
+ "buy_url": "https://buy.stripe.com/6oUbIU8HBdcM87E86D0x200",
+ "listing_url": "https://king-brain.tail6cf3cf.ts.net/kit",
+ "zip": "/home/king/king-ai/data/products/injection-test-kit/dist/injection-test-kit.zip",
+ "zip_sha256": "62fad488fe8ffe1db439e9a8f74970ee25b0fda4875df0f13a775a49f23a6b0a",
+ "files": 7,
+ "cases": 46,
+ "sample_url": "https://king-brain.tail6cf3cf.ts.net/kit/sample.zip",
+ "sample_zip": "/home/king/king-ai/data/products/injection-test-kit/dist/injection-test-kit-sample.zip",
+ "sample_sha256": "4b4e818c378cf6906723fa42d6fef10035d7bbebdb011b9b8d1a4bf9f0cf0246",
+ "sample_cases": 10,
+ "built_at": "2026-09-05T00:41:10Z"
+}

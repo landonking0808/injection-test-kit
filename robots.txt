@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /login
+Disallow: /media
+Disallow: /twiml
+Disallow: /voice
+Disallow: /audio
+Allow: /kit
+
+Sitemap: https://king-brain.tail6cf3cf.ts.net/sitemap.xml

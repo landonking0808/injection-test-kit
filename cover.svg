@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <rect x="60" y="60" width="1080" height="510" rx="18" fill="none" stroke="#1e293b" stroke-width="2"/>
+  <circle cx="990" cy="200" r="86" fill="none" stroke="#2563eb" stroke-width="10"/>
+  <circle cx="990" cy="200" r="46" fill="none" stroke="#2563eb" stroke-width="10"/>
+  <circle cx="990" cy="200" r="12" fill="#2563eb"/>
+  <text x="110" y="200" font-family="DejaVu Sans" font-weight="bold" font-size="30" fill="#93c5fd" letter-spacing="6">KING AI</text>
+  <text x="110" y="300" font-family="DejaVu Sans" font-weight="bold" font-size="68" fill="#ffffff">Prompt Injection</text>
+  <text x="110" y="380" font-family="DejaVu Sans" font-weight="bold" font-size="68" fill="#ffffff">Test Kit</text>
+  <text x="110" y="450" font-family="DejaVu Sans" font-size="28" fill="#cbd5e1">46 attack cases · scoring runner · hardening checklist</text>
+  <rect x="110" y="490" width="150" height="56" rx="10" fill="#2563eb"/>
+  <text x="185" y="529" font-family="DejaVu Sans" font-weight="bold" font-size="32" fill="#ffffff" text-anchor="middle">$49</text>
+</svg>
